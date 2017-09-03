@@ -5,9 +5,14 @@ accelerometers on a Samsung Galaxy S smartphone.
 
 To do this, the activity and feature info is loaded into the console/global environment. The mean and standard deviation columns from
 the training and test data sets are loaded. The two datasets are merged. THe activity and subject columns are turned into factors. 
-Finally, a new tidy data set is created with the average of each variable for each activity and each subject. 
+Finally, a new tidy data set is created with the average of each variable for each activity and each subject called "tidy.txt". 
 
-
+## Repository Contents
+This repository contains:
+1. This ReadMe.
+2. A codebook describing the variables.
+3. The run_analysis.R script.
+4. The tidy data set "tidy.txt".
 
 
 ## Getting and Cleaning Data Course Project
